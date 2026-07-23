@@ -6,8 +6,8 @@ export const BRAND = {
   description:
     'Premium western clothing curated by personality, not category. Four signature collections for four moods.',
   email: 'support.revvano@gmail.com',
-  phone: '+91 98765 43210',
-  address: 'Jammu, Jammu and Kashmir, India',
+  phone: '+91 88993 31944',
+  address: '20B, Omega City,140301,Kharar, Punjab, India',
   social: {
     instagram: 'https://instagram.com',
     tiktok: 'https://tiktok.com',

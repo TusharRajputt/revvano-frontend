@@ -89,11 +89,11 @@ export function TermsPage() {
       title="Terms & Conditions"
       breadcrumb="Terms & Conditions"
       sections={[
-        { heading: 'Acceptance of Terms', body: 'By accessing and using the रेvvano website, you accept and agree to be bound by these Terms and Conditions. If you do not agree, please do not use our site.' },
+        { heading: 'Acceptance of Terms', body: 'By accessing and using the Revvano website, you accept and agree to be bound by these Terms and Conditions. If you do not agree, please do not use our site.' },
         { heading: 'Products & Pricing', body: 'All products are subject to availability. We reserve the right to modify or discontinue products at any time. Prices are listed in Indian Rupees (INR) and are subject to change without notice. We make every effort to display accurate product colors and descriptions.' },
         { heading: 'Orders', body: 'Placing an order constitutes an offer to purchase. We reserve the right to refuse or cancel any order. You will receive an order confirmation email upon successful placement.' },
-        { heading: 'Intellectual Property', body: 'All content on this website, including text, images, logos, and design elements, is the property of रेvvano and is protected by intellectual property laws. You may not reproduce or distribute our content without written permission.' },
-        { heading: 'Limitation of Liability', body: 'रेvvano is not liable for any indirect, incidental, or consequential damages arising from the use of our website or products. Our total liability shall not exceed the amount you paid for the product in question.' },
+        { heading: 'Intellectual Property', body: 'All content on this website, including text, images, logos, and design elements, is the property of Revvano and is protected by intellectual property laws. You may not reproduce or distribute our content without written permission.' },
+        { heading: 'Limitation of Liability', body: 'Revvano is not liable for any indirect, incidental, or consequential damages arising from the use of our website or products. Our total liability shall not exceed the amount you paid for the product in question.' },
         { heading: 'Governing Law', body: 'These terms are governed by the laws of India. Any disputes shall be subject to the exclusive jurisdiction of the courts of Jammu, Jammu and Kashmir.' },
       ]}
     />
