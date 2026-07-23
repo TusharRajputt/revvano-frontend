@@ -46,10 +46,12 @@ export function PrivacyPolicyPage() {
         { heading: 'Data Security', body: 'We implement industry-standard security measures to protect your personal information, including SSL encryption for all transactions and secure data storage. However, no method of transmission over the internet is 100% secure.' },
         { heading: 'Your Rights', body: 'You have the right to access, correct, or delete your personal data. You may also opt out of marketing communications at any time by clicking the unsubscribe link in our emails or contacting us directly.' },
         { heading: 'Cookies', body: 'We use cookies to enhance your browsing experience, remember your preferences, and analyze site traffic. You can control cookies through your browser settings.' },
+        { heading: 'Contact Us', body: `For any privacy-related questions or requests, contact Revvano at ${BRAND.email} or ${BRAND.phone}. Our registered address is ${BRAND.address}.` },
       ]}
     />
   );
 }
+
 
 export function RefundPolicyPage() {
   return (
