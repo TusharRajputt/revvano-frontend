@@ -134,7 +134,7 @@ export function Footer() {
 
         <div className="mt-8 pt-8 border-t border-white/10 flex flex-col sm:flex-row justify-between gap-4 text-xs text-white/30">
           <p>&copy; {new Date().getFullYear()} {BRAND.name}. All rights reserved.</p>
-          <p>Designed in Los Angeles. Crafted for the world.</p>
+          <p>Designed in India. Crafted for the world.</p>
         </div>
       </div>
     </footer>
