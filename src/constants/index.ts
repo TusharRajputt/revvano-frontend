@@ -9,7 +9,7 @@ export const BRAND = {
   phone: '+91 734-1129247',
   address: 'Omega City, Kharar, Punjab, India',
   social: {
-    instagram: 'https://instagram.com',
+    instagram: 'https://instagram.com/_.revvano?igsh=cHc2bWhuMnlkdWVt',
     tiktok: 'https://tiktok.com',
     pinterest: 'https://pinterest.com',
     youtube: 'https://youtube.com',
